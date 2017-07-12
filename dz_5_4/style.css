@@ -1,0 +1,32 @@
+.fullwrap {
+  width: 487px;
+  height: 530px;
+  border: 1px solid black;
+  padding: 10px; }
+  .fullwrap .header {
+    border: 1px solid black;
+    min-width: 100px;
+    height: 63px; }
+  .fullwrap .wrap {
+    border: 1px solid black;
+    height: 315px;
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-left: 8px;
+    padding-right: 8px; }
+    .fullwrap .wrap .main {
+      float: left;
+      border: 1px solid black;
+      height: 295px;
+      width: 255px; }
+    .fullwrap .wrap .sidebar {
+      float: right;
+      border: 1px solid black;
+      height: 295px;
+      width: 165px; }
+  .fullwrap .footer {
+    border: 1px solid black;
+    margin-top: 10px;
+    height: 100px; }
+
+/*# sourceMappingURL=style.css.map */

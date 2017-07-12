@@ -1,0 +1,40 @@
+.header {
+	background-color: #80cdc6;
+	width: 590px;
+	height: 450px;
+}
+
+
+.clouds {
+	width: 65%;
+	float: right;
+
+}
+
+.world {
+	position: absolute;
+	
+	width: 590px;
+	top: 100px;
+	
+
+}
+
+
+.ship {
+	width: 117px;
+	position: absolute;
+	top: 200px;
+	left: 22px;
+	
+	
+
+}
+
+.water {
+	position: absolute;
+	top: 20px;
+	width: 590px;
+	top: 410px;
+
+

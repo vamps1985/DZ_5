@@ -1,0 +1,49 @@
+
+
+
+
+.fullwrap {
+	width: 487px;
+	height: 530px;
+	border: 1px solid black;
+	padding: 10px;
+	.header {
+		border: 1px solid black;
+		min-width: 100px;
+		height: 63px;
+
+	}
+
+	.wrap {
+		border: 1px solid black;
+		height: 315px;
+		margin-top: 10px;
+		padding-top: 20px;
+		padding-left: 8px;
+		padding-right: 8px;
+		.main {
+			float: left;
+			border: 1px solid black;
+			height: 295px;
+			width:  255px;
+
+		}
+		.sidebar {
+			float: right;
+			border: 1px solid black;
+			height: 295px;
+			width: 165px;
+
+		}
+	}	
+	.footer {
+		border: 1px solid black;
+		margin-top: 10px;
+		
+		height: 100px;
+
+
+	}
+}
+
+	
